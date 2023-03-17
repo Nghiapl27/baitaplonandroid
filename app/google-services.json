@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917692079544",
+    "project_id": "fir-dd175",
+    "storage_bucket": "fir-dd175.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917692079544:android:a05542b563291fea14c34d",
+        "android_client_info": {
+          "package_name": "com.example.perfume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917692079544-ol6sa48ni5toq8nh3480sd8vdr4sk5b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG5DV42xVEcsoMxJg0t5qi9jcHajJSZ_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917692079544-ol6sa48ni5toq8nh3480sd8vdr4sk5b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

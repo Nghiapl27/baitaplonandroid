@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "Navigation_View">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_hoadon"
+            android:icon="@drawable/nav_hoadon"
+            android:title="Hóa Đơn"/>
+
+        <item
+            android:id="@+id/nav_loai"
+            android:icon="@drawable/nav_loai"
+            android:title="Loại"/>
+
+        <item
+            android:id="@+id/nav_sp"
+            android:icon="@drawable/nav_sp"
+            android:title="Sản Phẩm"/>
+
+        <item
+            android:id="@+id/nav_doanhthu"
+            android:icon="@drawable/nav_doanhthu"
+            android:title="Doanh Thu"/>
+
+        <item
+            android:id="@+id/nav_sub_NhanVien"
+            android:icon="@drawable/nav_nhanvien"
+            android:title="Nhân Viên"
+            android:visible="false"/>
+
+
+        <item
+            android:id="@+id/nav_doimk"
+            android:icon="@drawable/nav_doimk"
+            android:title="Đổi Mật Khẩu"/>
+
+    </group>
+
+    <item
+        android:title="Logout">
+
+        <menu>
+            <item
+                android:id="@+id/nav_dangxuat"
+                android:icon="@drawable/nav_dangxuat"
+                android:title="logout"/>
+        </menu>
+
+    </item>
+
+
+
+</menu>
